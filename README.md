@@ -21,3 +21,6 @@ This is a simple demo I did using [Pixi js](http://www.pixijs.com/)
 [12 basic principles of animation wiki](https://en.wikipedia.org/wiki/12_basic_principles_of_animation)
 
 [12 Principles of Animation vedio by AlanBeckerTutorials](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+
+#### My Blog
+[https://myunitynotes.wordpress.com/](https://myunitynotes.wordpress.com/)
